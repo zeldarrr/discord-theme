@@ -1,13 +1,13 @@
 {
-    "name": "zeldar",
-    "id": "zeldar.dark",
+    "name": "Rosie Dark",
+    "id": "rosie.dark",
     "type": "theme",
     "main": "bundle.json",
-    "description": "slt les ptit potes",
+    "description": "meow meow",
     "version": "3.0.0",
     "authors": [
         {
-            "name": "zeldar",
+            "name": "Rosie<3",
             "id": "581573474296791211"
         }
     ]
