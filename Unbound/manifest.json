@@ -1,0 +1,14 @@
+{
+    "name": "zeldar",
+    "id": "zeldar.dark",
+    "type": "theme",
+    "main": "bundle.json",
+    "description": "slt les ptit potes",
+    "version": "3.0.0",
+    "authors": [
+        {
+            "name": "zeldar",
+            "id": "581573474296791211"
+        }
+    ]
+}

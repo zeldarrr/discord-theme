@@ -1,10 +1,10 @@
 {
     "name": "Rosie Material You",
-    "description": "zizi mdr.",
+    "description": "",
     "version": "2",
     "authors": [
         {
-            "name": "Rairof (Mod by Gemini)",
+            "name": "moi",
             "id": "807170846497570848"
         }
     ],
@@ -313,7 +313,7 @@
     },
     "background": {
         "blur": 0.2,
-        "url": "hhttps://github.com/zeldarrr/discord-theme/blob/main/background.jpg",
+        "url": "https://raw.githubusercontent.com/zeldarrr/discord-theme/blob/main/background.jpg",
         "OPACITY": 0.7
     },
     "plus": {
