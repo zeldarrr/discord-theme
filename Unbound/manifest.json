@@ -1,13 +1,13 @@
 {
-    "name": "Rosie Dark",
+    "name": "Z theme",
     "id": "rosie.dark",
     "type": "theme",
     "main": "bundle.json",
-    "description": "meow meow",
+    "description": "kk",
     "version": "3.0.0",
     "authors": [
         {
-            "name": "Rosie<3",
+            "name": "zeldar",
             "id": "581573474296791211"
         }
     ]

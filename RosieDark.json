@@ -1,10 +1,10 @@
 {
     "name": "RosieDark",
-    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+    "description": "zeldar",
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
+            "name": "zeldar",
             "id": "807170846497570848"
         }
     ],
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1 ,
-        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png",
+        "url": "https://raw.githubusercontent.com/zeldarrr/discord-theme/main/Wallpapers/ztheme.png",
         "OPACITY": 0
     },
     "plus": {
